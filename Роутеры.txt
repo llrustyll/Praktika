@@ -1,0 +1,20 @@
+M1
+ether 2 ip 30.18.1.1/24
+ether 3 ip dhcp
+M2
+ether 2 ip 30.18.1.2
+ether 3 ip 30.18.2.1
+M3
+ether 2 ip 30.18.2.2
+ether 3 ip 30.18.3.1
+M4
+ether 2 ip 30.18.3.2
+ether 3 ip 30.18.4.1
+M5
+M6
+M7
+M8
+M9dhcp
+M10
+M11
+M12
