@@ -1,20 +1,41 @@
 M1
 ether 2 ip 30.18.1.1/24
 ether 3 ip dhcp
+ether 4 ip 100.18.1.1/24
+ether 5 ip 100.18.15.1/24
 M2
-ether 2 ip 30.18.1.2
-ether 3 ip 30.18.2.1
+ether 2 ip 30.18.1.2/24
+ether 3 ip 30.18.2.1/24
+ether 4 ip 100.18.2.1/24
 M3
-ether 2 ip 30.18.2.2
-ether 3 ip 30.18.3.1
+ether 2 ip 30.18.2.2/24
+ether 3 ip 30.18.3.1/24
 M4
-ether 2 ip 30.18.3.2
-ether 3 ip 30.18.4.1
+ether 2 ip 30.18.3.2/24
+ether 3 ip 30.18.4.1/24
+ether 4 ip 100.18.3.1/24
 M5
+ether 2 ip 30.18.4.2/24
+ether 4 ip 100.18.4.1/24
 M6
+ether 2 ip 100.18.1.2/24
+ether 4 ip 10.18.1.1/24
+ether 5 ip 100.18.15.2/24
 M7
+ether 2 ip 100.18.2.2/24
+ether 3 ip 200.18.1.1/24
+ether 4 ip 10.18.1.1/24
 M8
-M9dhcp
+ether 2 ip 100.18.3.2/24
+ether 3 ip 200.18.2.1/24
+ether 4 ip 10.18.2.1/24
+M9 
+ether 2 ip 100.18.4.2/24
+ether 3 ip 200.18.3.1/24
+ether 4 ip 10.18.2.2/24
 M10
+ether 2 ip 200.18.1.2/24
 M11
+ether 2 ip 200.18.2.2/24
 M12
+ether 2 ip 200.18.3.2/24
